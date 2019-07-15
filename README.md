@@ -1,11 +1,8 @@
 # Data Science Roadmap Government Edition
 A collection of methods for a government data scientist 
+Here are the things that you will need to learn and know to swim in this murky world
 
-Data Science Roadmap - Government Edition  
-
-Here are the things that you will need to learn and know to swim in this murky world 
-
-
+## Topics
 
 1. How the Internet Works 
     1. Web Scraping
