@@ -47,8 +47,8 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   GitHub / Gitlab
 12. Data structures
     *   Data Warehousing 
-    *   Rectangular data (SQL) 
-    *   Non-rectangular data (NoSQL)
+    *   Relational data (SQL) 
+    *   Non-Relational data (NoSQL)
 13. Functional and/or (?) OOP
     *   Python
     *   R
@@ -91,7 +91,9 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   Communication
     *   Presentation
 
-Fun Links: 
+Fun Links:
+
+Get a Toronto Public library card so you can access Safari Database. [Safari](https://proquestcombo-safaribooksonline-com.ezproxy.torontopubliclibrary.ca/) has cool SQL and Data books and videos.
 
 [https://wtfismyengineertalkingabout.com/](https://wtfismyengineertalkingabout.com/) 
 
