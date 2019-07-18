@@ -31,6 +31,8 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   [D3JS](https://d3js.org/)
     *   [Bokeh](https://bokeh.pydata.org/en/latest/)
     *   [DCJS](https://dc-js.github.io/dc.js/)
+    *   [apache supersets](https://github.com/apache/incubator-superset)
+    *   [metabase](https://metabase.com/)
 7. Time series analytics
     *   Decomposition
     *   Anomaly detection
