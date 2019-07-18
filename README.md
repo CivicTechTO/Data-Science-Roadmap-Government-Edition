@@ -4,7 +4,7 @@ Here are the things that you will need to learn and know to swim in this murky w
 
 ## Topics
 
-1. How the Internet Works 
+1. [How the Internet Works](https://www.khanacademy.org/computing/computer-science/internet-intro#internet-works-intro) 
     *   Web Scraping
     *   Cloud Computing
     *   API Development and Deployment 
@@ -26,9 +26,11 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   Experimental Design
     *   Inference - Associative and Causal
 5. Simulation
+    *   [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 6. Data visualization
-    *   Static
-    *   Interactive
+    *   [D3JS](https://d3js.org/)
+    *   [Bokeh](https://bokeh.pydata.org/en/latest/)
+    *   [DCJS](https://dc-js.github.io/dc.js/)
 7. Time series analytics
     *   Decomposition
     *   Anomaly detection
@@ -40,6 +42,7 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   Spatial queries
     *   Spatial models
 9. Graph data analytics
+    *   [Neo4j](https://neo4j.com/)
 10. Free Text Analytics
     *   NLP 
 11. Version control
@@ -47,18 +50,28 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   GitHub / Gitlab
 12. Data structures
     *   Data Warehousing 
-    *   Relational data (SQL) 
+    *   Relational data (SQL)
+       * [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+       * [sqlbolt](https://sqlbolt.com/lesson/select_queries_introduction)
+       * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+       * [Microsoft SQL course](https://www.edx.org/v2/course/querying-data-with-transact-sql-3)
     *   Non-Relational data (NoSQL)
-13. Functional and/or (?) OOP
-    *   Python
-    *   R
+       * [Microsoft NoSQL course](https://www.edx.org/course/introduction-to-nosql-solutions-5)
+13. Scripting Languages
+    *   [Python](https://docs.python.org/3.7/tutorial/index.html) 
+    *   [R](https://www.r-project.org/)
     *   SAS
-    *   Visual Basic
 14. Machine learning
-    *   Theory and constraints
-    *   Frameworks - Scikit-learn, Tenserflow, Keras, Caret
-    *   Methods
-15. Production and deployment
+    *   [Courses to Learn ML Theory](https://www.edx.org/course?search_query=machine+learning)
+    *   [fast.ai](http://course18.fast.ai/ml)
+    *   Frameworks 
+       * [Scikit-learn](https://scikit-learn.org/stable/)
+       * [Tensorflow](https://www.tensorflow.org/)
+       * [Keras](https://keras.io/)
+       * [Caffe](https://caffe.berkeleyvision.org/)
+       * [MxNet](https://mxnet.apache.org/)
+       * [H20[(https://www.h2o.ai/)
+15. Production deployment
 16. Performance measurement
     *   Strategic modeling
     *   Performance indicators
