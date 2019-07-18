@@ -63,14 +63,13 @@ Here are the things that you will need to learn and know to swim in this murky w
     *   SAS
 14. Machine learning
     *   [Courses to Learn ML Theory](https://www.edx.org/course?search_query=machine+learning)
-    *   [fast.ai](http://course18.fast.ai/ml)
-    *   Frameworks 
-       ** [Scikit-learn](https://scikit-learn.org/stable/)
-       * [Tensorflow](https://www.tensorflow.org/)
-       * [Keras](https://keras.io/)
-       * [Caffe](https://caffe.berkeleyvision.org/)
-       * [MxNet](https://mxnet.apache.org/)
-       * [H20](https://www.h2o.ai/)
+    *   [fast.ai](http://course18.fast.ai/ml) 
+    *   [Scikit-learn](https://scikit-learn.org/stable/)
+    *   [Tensorflow](https://www.tensorflow.org/)
+    *   [Keras](https://keras.io/)
+    *   [Caffe](https://caffe.berkeleyvision.org/)
+    *   [MxNet](https://mxnet.apache.org/)
+    *   [H20](https://www.h2o.ai/)
 15. Production deployment
 16. Performance measurement
     *   Strategic modeling
