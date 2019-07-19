@@ -57,6 +57,7 @@ Here are the things that you will need to learn and know to swim in this murky w
        * [sqlbolt](https://sqlbolt.com/lesson/select_queries_introduction)
        * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
        * [Microsoft SQL course](https://www.edx.org/v2/course/querying-data-with-transact-sql-3)
+       * table indexing
     *   Non-Relational data (NoSQL)
        * [Microsoft NoSQL course](https://www.edx.org/course/introduction-to-nosql-solutions-5)
 13. Scripting Languages
@@ -98,8 +99,6 @@ Here are the things that you will need to learn and know to swim in this murky w
 22. Optimization
     *   Refactoring
     *   Query optimization
-    *   Algorithms
-    *   Indexing
 23. Other skills
     *   Project management
     *   Communication
